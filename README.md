@@ -67,7 +67,7 @@ python address_book.py
 ```
 
 📌 **완성된 프로그램 실행 화면:**  
-![완성된 프로그램 실행](image/주소록_결과물.png)
+![완성된 프로그램 실행](image/fin.png)
 
 ---
 
