@@ -12,7 +12,7 @@ Python 인터프리터를 설치하기 위해 [Anaconda](https://www.anaconda.co
 - Miniconda는 가볍고 필요한 패키지만 설치할 수 있습니다.
 
 📌 **설치 화면 예시:**  
-![Anaconda 설치](image/vscode.PNG)
+![Anaconda 설치](image/pythons.PNG)
 
 ---
 
