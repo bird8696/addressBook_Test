@@ -43,7 +43,7 @@ conda activate myFirst
 ```
 
 📌 **가상환경 생성 화면 예시:**  
-![가상환경 만들기](image/가상환경_만들기.PNG)
+![가상환경 만들기](image/vm.PNG)
 
 ---
 
@@ -53,7 +53,7 @@ conda activate myFirst
 2. 생성한 가상환경(`myFirst`)을 선택합니다.
 
 📌 **연결 화면 예시:**  
-![VSCode 가상환경 연결](image/연결.PNG)
+![VSCode 가상환경 연결](image/cen.PNG)
 
 ---
 
